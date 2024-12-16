@@ -13,7 +13,6 @@
   <img align="center" alt="Du-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Du-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Du-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Du-Gif" height="130" src="https://i.picasion.com/pic91/c88a7f9b6a6bb7fc97a38c2630aa6c63.gif">
 </div>
   
 ##
